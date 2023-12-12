@@ -2,7 +2,6 @@
 
 I'm Faraaz, a student at the University of British Columbia! I'm really interested in learning all aspects of programming!
 
-- 🔭 I’m currently working on a NES emulator
 - 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: he/him
 
